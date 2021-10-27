@@ -1,0 +1,2 @@
+# zookeeper-leader-selector
+使用curator实现zookeeper的leader选举功能，可以用来分布式架构中的缓存预热等场景
